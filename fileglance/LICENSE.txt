@@ -1,0 +1,86 @@
+FileGlance — End-User License Agreement
+========================================
+
+Copyright (c) 2026 Jim Clements. All rights reserved.
+
+PLEASE READ THIS LICENSE AGREEMENT CAREFULLY BEFORE INSTALLING OR USING
+FILEGLANCE. BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO BE BOUND BY
+THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE
+THE SOFTWARE.
+
+1. GRANT OF LICENSE
+
+   Jim Clements ("Author") grants you a non-exclusive, non-transferable,
+   royalty-free license to install and use FileGlance ("Software") on any
+   Windows computer you personally own or operate.
+
+2. PERMITTED USE
+
+   - Personal use: unrestricted and free.
+   - Commercial use: permitted. If FileGlance saves you time in a commercial
+     environment, a voluntary donation is appreciated but not required.
+     See the About page inside the application for the donation link.
+
+3. RESTRICTIONS
+
+   You may NOT:
+
+   a. Redistribute, sell, sublicense, or otherwise transfer the Software or
+      any part of it to any third party without prior written permission from
+      the Author.
+   b. Reverse engineer, decompile, disassemble, or otherwise attempt to derive
+      the source code of the Software.
+   c. Modify, adapt, translate, or create derivative works based on the Software.
+   d. Remove or alter any proprietary notices, labels, or marks on the Software.
+   e. Use the FileGlance name or branding to imply endorsement of your own
+      products or services.
+
+4. OWNERSHIP
+
+   The Software is the exclusive intellectual property of the Author. This
+   agreement does not transfer any ownership rights. All rights not expressly
+   granted are reserved.
+
+5. DISCLAIMER OF WARRANTIES
+
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. THE AUTHOR DOES NOT
+   WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE OR THAT DEFECTS WILL BE
+   CORRECTED.
+
+6. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL,
+   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO
+   LOSS OF DATA, LOSS OF PROFITS, OR BUSINESS INTERRUPTION) ARISING OUT OF
+   THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN
+   ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. UPDATES
+
+   The Author may release updated versions of the Software. This agreement
+   applies to all versions and updates unless a separate agreement accompanies
+   a specific update.
+
+8. TERMINATION
+
+   This license is effective until terminated. It terminates automatically
+   without notice if you fail to comply with any term of this agreement. Upon
+   termination, you must uninstall and destroy all copies of the Software in
+   your possession.
+
+9. GOVERNING LAW
+
+   This agreement shall be governed by the laws of the jurisdiction in which
+   the Author resides, without regard to conflict-of-law provisions.
+
+10. ENTIRE AGREEMENT
+
+    This agreement constitutes the entire agreement between you and the Author
+    concerning the Software and supersedes all prior or contemporaneous
+    understandings.
+
+---
+
+Questions? Open an issue at https://github.com/NXJim/fileglance-releases
