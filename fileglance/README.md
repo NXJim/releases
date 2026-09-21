@@ -1,7 +1,4 @@
 
-
-https://github.com/user-attachments/assets/efc31521-3602-4b22-a76b-b21f1aafbde1
-
 # FileGlance
 
 **Look before you open.**
