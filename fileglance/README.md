@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/efc31521-3602-4b22-a76b-b21f1aafbde1
+
 # FileGlance
 
 **Look before you open.**
@@ -8,7 +12,7 @@ A native Windows tray utility that shows an instant preview popup when you hover
 
 ## Demo
 
-<video src="https://github.com/NXJim/releases/raw/main/fileglance/fileglance-demo.mp4" controls width="720"></video>
+https://github.com/user-attachments/assets/efc31521-3602-4b22-a76b-b21f1aafbde1
 
 > If the player doesn't appear, [watch the clip directly](https://github.com/NXJim/releases/raw/main/fileglance/fileglance-demo.mp4).
 
