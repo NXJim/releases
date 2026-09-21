@@ -6,6 +6,14 @@ A native Windows tray utility that shows an instant preview popup when you hover
 
 ---
 
+## Demo
+
+<video src="https://github.com/NXJim/releases/raw/main/fileglance/fileglance-demo.mp4" controls width="720"></video>
+
+> If the player doesn't appear, [watch the clip directly](https://github.com/NXJim/releases/raw/main/fileglance/fileglance-demo.mp4).
+
+---
+
 ## Download
 
 👉 **[Download FileGlance-2026.09.20.003-Setup.exe →](https://github.com/NXJim/releases/raw/main/fileglance/FileGlance-2026.09.20.003-Setup.exe)**
